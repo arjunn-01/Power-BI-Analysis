@@ -1,4 +1,4 @@
-📊 Power BI Insights for Madhav 
+📊 Power BI Insights for Madhav Store
 
 Uncovered valuable business insights for Madhav Store using interactive Power BI visualizations.
 
